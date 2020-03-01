@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AI_Innovation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BigData_Platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Company" vcs="" />
+    <mapping directory="$PROJECT_DIR$/DACON" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NLP" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Natural_Language_Processing" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Study" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Study/Kaggle Practice" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Study/notebooks/embedding" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Study/notebooks/embedding/models/fastText" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Study/notebooks/embedding/models/glove" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Study/notebooks/khaiii" vcs="" />
+    <mapping directory="$PROJECT_DIR$/미디어_주제선정/Music Analysis" vcs="Git" />
+  </component>
+</project>
