@@ -8,7 +8,8 @@
     <mapping directory="$PROJECT_DIR$/Company" vcs="" />
     <mapping directory="$PROJECT_DIR$/DACON" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NLP" vcs="" />
-    <mapping directory="$PROJECT_DIR$/Natural_Language_Processing" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Natural_Language_Processing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Natural_Language_Processing/NLP_Gradurate" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Practice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Study" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Study/Kaggle Practice" vcs="" />
